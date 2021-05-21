@@ -1,0 +1,2 @@
+# Pirmadzoda-Shohrukh
+Labaratornay rabota
