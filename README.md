@@ -1,2 +1,2 @@
 # Pirmadzoda-Shohrukh
-Labaratornay rabota
+Zadachi
